@@ -1,0 +1,33 @@
+# Vighna AI Assistant - Dependencies
+# Core AI & Voice
+openai-whisper
+sounddevice
+numpy
+groq
+pyttsx3
+pyaudio
+
+# System Control
+psutil
+keyboard
+pycaw
+comtypes
+
+# UI
+PySide6
+
+# Auth & DB
+bcrypt
+
+# PDF
+PyMuPDF
+
+# Image / OCR
+Pillow
+pytesseract
+
+# Export
+reportlab
+
+# Web
+requests

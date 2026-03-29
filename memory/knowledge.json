@@ -1,0 +1,47 @@
+{
+  "app_aliases": {
+    "vs code": "vscode",
+    "visual studio code": "vscode",
+    "chrome": "chrome",
+    "google chrome": "chrome",
+    "notepad": "notepad",
+    "calculator": "calculator",
+    "file explorer": "explorer",
+    "explorer": "explorer",
+    "spotify": "spotify",
+    "discord": "discord",
+    "whatsapp": "whatsapp"
+  },
+  "work_modes": {
+    "start work": [
+      "vscode",
+      "chrome"
+    ],
+    "study mode": [
+      "notepad",
+      "chrome"
+    ],
+    "creative mode": [
+      "vscode",
+      "spotify"
+    ],
+    "macro_open_app_open_app_open_app": [
+      "Open Calculator",
+      "Open Notepad",
+      "Open Explorer"
+    ]
+  },
+  "folder_shortcuts": {
+    "downloads": "%USERPROFILE%\\Downloads",
+    "desktop": "%USERPROFILE%\\Desktop",
+    "documents": "%USERPROFILE%\\Documents",
+    "pictures": "%USERPROFILE%\\Pictures",
+    "music": "%USERPROFILE%\\Music"
+  },
+  "preferences": {
+    "voice_rate": 170,
+    "voice_volume": 1.0,
+    "theme": "dark",
+    "wake_word": "hey vighna"
+  }
+}
